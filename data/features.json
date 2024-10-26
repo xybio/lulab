@@ -1,0 +1,17 @@
+[
+  {
+    "title": "患者招募项目",
+    "description": "面向疑难和罕见病患者开放招募，助力药物重定位与个性化治疗研究。",
+    "image": "images/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "数据分析平台",
+    "description": "依托先进的生物信息学工具，实现高效的数据处理与多组学整合分析。",
+    "image": "images/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "数据库资源",
+    "description": "构建并维护临床和组学数据库，为药物重定位和精准医疗提供数据支撑。",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  }
+]

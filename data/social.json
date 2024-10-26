@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Github",
+        "link": "https://github.com/",
+        "image": "images/social/github.svg"
+    },
+    {
+        "name": "WeChat",
+        "link": "https://mp.weixin.qq.com/",
+        "image": "images/social/wechat.svg"
+    }
+]
