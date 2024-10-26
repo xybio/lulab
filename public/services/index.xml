@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on 表观精准治疗实验室</title>
-    <link>//localhost:1313/services/</link>
+    <link>/services/</link>
     <description>Recent content in Services on 表观精准治疗实验室</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate>
-    <atom:link href="//localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>药物重定位</title>
-      <link>//localhost:1313/services/accounting/</link>
+      <link>/services/accounting/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>//localhost:1313/services/accounting/</guid>
+      <guid>/services/accounting/</guid>
       <description>&lt;p&gt;通过重新挖掘已批准药物的新用途，为疑难和罕见病患者寻找创新的治疗方案。&lt;/p&gt;</description>
     </item>
     <item>
       <title>科研成果2</title>
-      <link>//localhost:1313/services/business-advisory/</link>
+      <link>/services/business-advisory/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
-      <guid>//localhost:1313/services/business-advisory/</guid>
+      <guid>/services/business-advisory/</guid>
       <description>&lt;p&gt;团队在Gaucher病的单细胞组学研究中取得突破，为精准医疗提供了新的方向。&lt;/p&gt;</description>
     </item>
     <item>
       <title>科研成果3</title>
-      <link>//localhost:1313/services/business-sales/</link>
+      <link>/services/business-sales/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
-      <guid>//localhost:1313/services/business-sales/</guid>
+      <guid>/services/business-sales/</guid>
       <description>&lt;p&gt;成功探索多种恶性肿瘤的生物标志物，推动了肿瘤免疫治疗的个性化发展。&lt;/p&gt;</description>
     </item>
     <item>
       <title>科研成果4</title>
-      <link>//localhost:1313/services/mergers/</link>
+      <link>/services/mergers/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
-      <guid>//localhost:1313/services/mergers/</guid>
+      <guid>/services/mergers/</guid>
       <description>&lt;p&gt;参与多个国际多中心研究项目，为跨国合作提供关键生物信息学支持。&lt;/p&gt;</description>
     </item>
     <item>
       <title>科研成果5</title>
-      <link>//localhost:1313/services/superannuation/</link>
+      <link>/services/superannuation/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
-      <guid>//localhost:1313/services/superannuation/</guid>
+      <guid>/services/superannuation/</guid>
       <description>&lt;p&gt;搭建了高效的数据管理平台，为大规模临床数据和组学数据整合提供强大支持。&lt;/p&gt;</description>
     </item>
     <item>
       <title>科研成果6</title>
-      <link>//localhost:1313/services/tax-preperation/</link>
+      <link>/services/tax-preperation/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>//localhost:1313/services/tax-preperation/</guid>
+      <guid>/services/tax-preperation/</guid>
       <description>&lt;p&gt;团队致力于构建罕见病数据库，并开发AI算法实现智能化药物筛选和重定位。&lt;/p&gt;</description>
     </item>
   </channel>
